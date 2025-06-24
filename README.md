@@ -83,7 +83,6 @@ Interactive Tableau dashboards illustrate:
 ## 6. Act | Recommendations
 1. **Seasonal campaigns:** Promote membership at major tourist & recreation areas each spring/summer.  
 2. **Weekend pass-to-membership offer:** Discount annual plans for riders who buy multiple weekend passes.  
-3. **Long-ride incentives:** Provide time-based credits to make extended trips cheaper for members.  
-4. **Targeted digital ads:** Geofence popular casual-rider stations; retarget users who end ≥2 rides there.
+3. **Long-ride incentives:** Provide time-based credits to make extended trips cheaper for members. 
 
 ---
