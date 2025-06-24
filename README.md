@@ -25,18 +25,18 @@ Finance teams show memberships are far more profitable. Marketing therefore aims
 
 ---
 
-## 1 — Ask  
+## 1. Ask  
 **Business objective:** Develop data-backed marketing strategies that boost annual subscriptions.  
 **Key question (my assignment):** *How do casual riders and members use Cyclistic bikes differently?*
 
 ---
 
-## 2 — Prepare  
+## 2. Prepare  
 *Data:* 12 CSV files (`YYYYMM-divvy-tripdata`) totaling **5.6 M trips**. Columns include ride timestamps, start/end stations, bike type, and rider category. Personally identifiable information is absent.
 
 ---
 
-## 3 — Process  
+## 3. Process  
 Because the dataset exceeds Excel’s row limit, I used **SQLite** to:
 
 1. Upload each monthly CSV as a table (`2022_tripdata` dataset).  
@@ -50,7 +50,7 @@ Because the dataset exceeds Excel’s row limit, I used **SQLite** to:
 
 ---
 
-## 4 — Analyze  
+## 4. Analyze  
 **Tools:** SQLite + Tableau
 
 ### Rider Mix
@@ -72,14 +72,14 @@ Casual rides average **2×** the length of member rides; member durations stay c
 
 ---
 
-## 5 — Share  
+## 5. Share  
 Interactive Tableau dashboards illustrate:
 - Bike type usage
 - Monthly / weekly ride volumes
 
 ---
 
-## 6 — Act | Recommendations
+## 6. Act | Recommendations
 1. **Seasonal campaigns:** Promote membership at major tourist & recreation areas each spring/summer.  
 2. **Weekend pass-to-membership offer:** Discount annual plans for riders who buy multiple weekend passes.  
 3. **Long-ride incentives:** Provide time-based credits to make extended trips cheaper for members.  
