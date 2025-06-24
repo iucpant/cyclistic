@@ -1,5 +1,5 @@
 # Cyclistic Bike-Share Analysis  
-*Google Data Analytics Capstone Project*
+Course: [Google Data Analytics Capstone: Complete a Case Study](https://www.coursera.org/learn/google-data-analytics-capstone)
 
 ---
 
@@ -12,7 +12,7 @@ This repository walks through my end-to-end analysis of **Cyclistic’s** 2022 b
 | Resource | Description |
 |----------|-------------|
 | **Data source** | Monthly Divvy trip data (Jan – Dec 2022) – [`divvy_tripdata`](https://divvy-tripdata.s3.amazonaws.com/index.html) |
-| **SQL notebooks** | `01_combine.sql`, `02_explore.sql`, `03_clean.sql`, `04_analyze.sql` |
+| **SQL notebooks** | [01. Data Combining](), [02. Data Exploration](), [03. Data Cleaning](), [04. Data Analysis]() |
 
 ---
 
@@ -56,12 +56,16 @@ Because the dataset exceeds Excel’s row limit, I used **SQLite** to:
 ### Rider Mix
 - Members: **59.7 %**  
 - Casual: **40.3 %**
+  
+![Dashboard 1](https://github.com/user-attachments/assets/ade60a27-2e5f-4af4-8863-46dce6e9acee)
 
 ### Temporal Patterns
 | Dimension | Casual riders | Members |
 |-----------|---------------|---------|
 | **Month** | Peaks May–Sep | Similar seasonality |
 | **Day**   | Weekend-heavy | Weekday-heavy |
+
+![Dashboard 2](https://github.com/user-attachments/assets/dd854fb5-d9ec-45b4-9898-2ff6566737f3)
 
 ### Trip Duration
 Casual rides average **2×** the length of member rides; member durations stay consistent year-round.
