@@ -59,10 +59,12 @@ Because the dataset exceeds Excel’s row limit, I used **SQLite** to:
 ![Dashboard 1](https://github.com/user-attachments/assets/ade60a27-2e5f-4af4-8863-46dce6e9acee)
 
 ### Temporal Patterns
-| Dimension | Casual riders | Members |
-|-----------|---------------|---------|
-| **Month** | Peaks May–Sep | Similar seasonality |
-| **Day**   | Weekend-heavy | Weekday-heavy |
+
+| Dimension | Casual riders   | Members             |
+|-----------|-----------------|---------------------|
+| **Month** | Peaks May – Sep | Similar seasonality |
+| **Day**   | Weekend-heavy   | Weekday-heavy       |
+
 
 ![Dashboard 2](https://github.com/user-attachments/assets/dd854fb5-d9ec-45b4-9898-2ff6566737f3)
 
